@@ -1,0 +1,15 @@
+.login__col {
+  height: 80vh;
+  display: flex;
+  .login-form__button {
+    width: 50%;
+  }
+}
+
+.signup-redirect {
+  width: 100%;
+  padding-bottom: 15px;
+  a {
+    text-decoration: none;
+  }
+}
